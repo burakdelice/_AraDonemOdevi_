@@ -1,0 +1,52 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›Ãáã8óğ³İ1
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(ğ¤¼T8„ò³İ1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(˜‹œÀ8„ò³İ1
+T	java:S106&"9Replace this use of System.out or System.err by a logger.(øÎ8„ò³İ1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Öî°Ûúÿÿÿÿ8„ò³İ1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(€À‚øÿÿÿÿ8„ò³İ1
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(îöäœ8„ò³İ1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(†è‹İşÿÿÿÿ8„ò³İ1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(òº ïúÿÿÿÿ8„ò³İ1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(“àÆğ8„ò³İ1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(˜ÆúÅ8„ò³İ1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(œÿÔ8„ò³İ1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ñÆç¸8…ò³İ1
+T	java:S1060"9Replace this use of System.out or System.err by a logger.(¼øs8…ò³İ1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(è¯§ª8…ò³İ1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(š×ıÿÿÿÿ8…ò³İ1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ıç“úÿÿÿÿ8…ò³İ1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ï¡¾ˆûÿÿÿÿ8…ò³İ1
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ôÛÅÇûÿÿÿÿ8†ò³İ1
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(»­ÓŸ8†ò³İ1
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(µˆœÑ8ˆò³İ1
+t
+java:S6204}"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(åìŠÛşÿÿÿÿ8ˆò³İ1
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(¬šäõıÿÿÿÿ8ˆò³İ1
+p
+java:S6204…"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8‰ò³İ1
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(ñçÜÕıÿÿÿÿ8‰ò³İ1
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(Š…ç¡üÿÿÿÿ8‰ò³İ1
+i
+java:S4034‹"FReplace this "filter().findAny().isPresent()" chain with "anyMatch()".(Š…ç¡üÿÿÿÿ8‰ò³İ1
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(Şé½ù8Šò³İ1
+[	java:S106›"9Replace this use of System.out or System.err by a logger.(ÀÊ¦±şÿÿÿÿ8‹ò³İ1
+\
+java:S1612¡">Replace this lambda with method reference 'Personel::getIsim'.(íÌìÃ8Œò³İ1
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8Œò³İ1
+p
+java:S6204ª"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Œò³İ1
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(ÑÄ¤°üÿÿÿÿ8Œò³İ1
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(‘’ç“øÿÿÿÿ8Œò³İ1
+p	java:S100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¢Ãºşÿÿÿÿ8Œò³İ1
+u
+java:S6204´"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Â§¡şøÿÿÿÿ8Œò³İ1
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(Úöíüıÿÿÿÿ8ò³İ1
+p
+java:S6204½"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ò³İ1
+V	java:S106¿"9Replace this use of System.out or System.err by a logger.(ÉÉî¢8ò³İ1
+[	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ÒÈÛÆûÿÿÿÿ8ò³İ1
+[	java:S106Ì"9Replace this use of System.out or System.err by a logger.(º¦¯³şÿÿÿÿ8ò³İ1
+V	java:S106Î"9Replace this use of System.out or System.err by a logger.(œ£úÆ8ò³İ1
+U	java:S106Ó"9Replace this use of System.out or System.err by a logger.(Ø½·8ò³İ1
+[	java:S106×"9Replace this use of System.out or System.err by a logger.(ç×İ¸ÿÿÿÿÿ8ò³İ1

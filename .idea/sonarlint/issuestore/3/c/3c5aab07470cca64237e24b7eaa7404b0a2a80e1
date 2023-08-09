@@ -1,0 +1,139 @@
+
+~
+java:S1192U"aDefine a constant instead of duplicating this literal "GeÃ§ersiz bir seÃ§im yaptÄ±nÄ±z!" 4 times.(»­ÓŸ8öëêİ1
+w
+java:S1192D"UDefine a constant instead of duplicating this literal "SeÃ§iminizi yapÄ±n: " 4 times.(ï¡¾ˆûÿÿÿÿ8öëêİ1
+{
+java:S1192R"YDefine a constant instead of duplicating this literal "Ã‡Ä±kÄ±ÅŸ yapÄ±lÄ±yor..." 4 times.(ôÛÅÇûÿÿÿÿ8öëêİ1
+Œ
+java:S1192C"jDefine a constant instead of duplicating this literal "Ã‡Ä±kÄ±ÅŸ Yapmak iÃ§in '0' tuÅŸlayÄ±nÄ±z." 4 times.(ıç“úÿÿÿÿ8öëêİ1
+}
+java:S1104"[Make personelListesi a static final constant or non-public and provide accessors if needed.(Ø¡´‡øÿÿÿÿ8÷ëêİ1
+q
+java:S1104	"TMake mudurler a static final constant or non-public and provide accessors if needed.(ùæ¾µ8÷ëêİ1
+r
+java:S1104
+"VMake genelMudur a static final constant or non-public and provide accessors if needed.(ı‘h8÷ëêİ1
+t
+java:S1104"WMake hizmetliler a static final constant or non-public and provide accessors if needed.(ìÂ›»8÷ëêİ1
+x
+java:S1104"\Make buroPersonelleri a static final constant or non-public and provide accessors if needed.(÷‹¦8÷ëêİ1
+|
+java:S1104"ZMake ikPersonelleri a static final constant or non-public and provide accessors if needed.(üÀØÌøÿÿÿÿ8÷ëêİ1
+
+java:S1104"]Make teknikPersoneller a static final constant or non-public and provide accessors if needed.(šÇ”Ñıÿÿÿÿ8÷ëêİ1
+‚
+java:S1104"`Make muhasebePersonelleri a static final constant or non-public and provide accessors if needed.(ë™Ö×üÿÿÿÿ8÷ëêİ1
+W
+java:S1444"5Make this "public static personelListesi" field final(Ø¡´‡øÿÿÿÿ8øëêİ1
+K
+java:S1444	".Make this "public static mudurler" field final(ùæ¾µ8øëêİ1
+L
+java:S1444
+"0Make this "public static genelMudur" field final(ı‘h8øëêİ1
+N
+java:S1444"1Make this "public static hizmetliler" field final(ìÂ›»8øëêİ1
+R
+java:S1444"6Make this "public static buroPersonelleri" field final(÷‹¦8øëêİ1
+V
+java:S1444"4Make this "public static ikPersonelleri" field final(üÀØÌøÿÿÿÿ8øëêİ1
+Y
+java:S1444"7Make this "public static teknikPersoneller" field final(šÇ”Ñıÿÿÿÿ8øëêİ1
+\
+java:S1444":Make this "public static muhasebePersonelleri" field final(ë™Ö×üÿÿÿÿ8øëêİ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹å„Ñøÿÿÿÿ8úëêİ1
+B
+java:S1640Æ"Convert this Map to an EnumMap.(úÈ«£üÿÿÿÿ8ûëêİ1
+?
+java:S2386"Make this member "protected".(Ø¡´‡øÿÿÿÿ8†îêİ1
+:
+java:S2386	"Make this member "protected".(ùæ¾µ8†îêİ1
+:
+java:S2386"Make this member "protected".(ìÂ›»8†îêİ1
+9
+java:S2386"Make this member "protected".(÷‹¦8†îêİ1
+?
+java:S2386"Make this member "protected".(üÀØÌøÿÿÿÿ8†îêİ1
+?
+java:S2386"Make this member "protected".(šÇ”Ñıÿÿÿÿ8†îêİ1
+?
+java:S2386"Make this member "protected".(ë™Ö×üÿÿÿÿ8†îêİ1
+[
+java:S1117">Rename "genelMudur" which hides the field declared at line 10.(õ˜…º8‰îêİ1
+o	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‰Á€ÿÿÿÿÿ8Œîêİ1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(Â¼¡›ÿÿÿÿÿ8Œîêİ1
+T
+java:S6126="2Replace this String concatenation with Text block.(Â¼¡›ÿÿÿÿÿ8Œîêİ1
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ƒìêñ8Œîêİ1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(¹í¬˜şÿÿÿÿ8îêİ1
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(Åêñûÿÿÿÿ8îêİ1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ıç“úÿÿÿÿ8îêİ1
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ï¡¾ˆûÿÿÿÿ8îêİ1
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ôÛÅÇûÿÿÿÿ8îêİ1
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(»­ÓŸ8îêİ1
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(—ì´ƒùÿÿÿÿ8îêİ1
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(õ—Òùÿÿÿÿ8îêİ1
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(ˆñº“8îêİ1
+T	java:S106d"9Replace this use of System.out or System.err by a logger.(èƒ­m8îêİ1
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(¿‚“¦8îêİ1
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ıç“úÿÿÿÿ8îêİ1
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(ï¡¾ˆûÿÿÿÿ8îêİ1
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(ôÛÅÇûÿÿÿÿ8îêİ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»­ÓŸ8îêİ1
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(ª“àŒúÿÿÿÿ8îêİ1
+U	java:S106Œ"9Replace this use of System.out or System.err by a logger.(•İíA8îêİ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ıç“úÿÿÿÿ8îêİ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ï¡¾ˆûÿÿÿÿ8îêİ1
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(ôÛÅÇûÿÿÿÿ8îêİ1
+V	java:S106œ"9Replace this use of System.out or System.err by a logger.(»­ÓŸ8îêİ1
+V	java:S106¨"9Replace this use of System.out or System.err by a logger.(„“’Ï8îêİ1
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(™ƒ…üşÿÿÿÿ8îêİ1
+[	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÒÁ‡Üûÿÿÿÿ8îêİ1
+V	java:S106«"9Replace this use of System.out or System.err by a logger.(áú¼ø8îêİ1
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(¿ú¤á8îêİ1
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(Å ø¢øÿÿÿÿ8îêİ1
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(ıç“úÿÿÿÿ8îêİ1
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(ï¡¾ˆûÿÿÿÿ8îêİ1
+[	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ôÛÅÇûÿÿÿÿ8‘îêİ1
+V	java:S106É"9Replace this use of System.out or System.err by a logger.(»­ÓŸ8‘îêİ1
+V	java:S106ä"9Replace this use of System.out or System.err by a logger.(î´à8“îêİ1
+[	java:S106æ"9Replace this use of System.out or System.err by a logger.(¡É¡†ıÿÿÿÿ8“îêİ1
+[	java:S106è"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8“îêİ1
+V	java:S106ñ"9Replace this use of System.out or System.err by a logger.(à¤ê¡8“îêİ1
+[	java:S106÷"9Replace this use of System.out or System.err by a logger.(ÂÖ‚ßüÿÿÿÿ8•îêİ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ü¤’Íùÿÿÿÿ8•îêİ1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¢€Š§8–îêİ1
+U	java:S106“"9Replace this use of System.out or System.err by a logger.(‡°“S8–îêİ1
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(ûğ¿±úÿÿÿÿ8—îêİ1
+V	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(¼‡ÔÊ8—îêİ1
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(…ÿãá8˜îêİ1
+[	java:S106Á"9Replace this use of System.out or System.err by a logger.(®‚Š›üÿÿÿÿ8˜îêİ1
+[	java:S106Õ"9Replace this use of System.out or System.err by a logger.(Ş”üÿÿÿÿ8šîêİ1
+V	java:S106×"9Replace this use of System.out or System.err by a logger.(å€µÛ8šîêİ1
+[	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8šîêİ1
+V	java:S106ß"9Replace this use of System.out or System.err by a logger.(í‰‡Ë8šîêİ1
+V	java:S106ã"9Replace this use of System.out or System.err by a logger.(Ñ‘Š8šîêİ1
+V	java:S106è"9Replace this use of System.out or System.err by a logger.(Ÿ‰Ä¬8šîêİ1
+[	java:S106ò"9Replace this use of System.out or System.err by a logger.(Ú˜Ùøÿÿÿÿ8›îêİ1
+V	java:S106÷"9Replace this use of System.out or System.err by a logger.(Ìà³ñ8›îêİ1
+[	java:S106ü"9Replace this use of System.out or System.err by a logger.(¯ªµ‡úÿÿÿÿ8œîêİ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(’Ï×şùÿÿÿÿ8œîêİ1
+R
+java:S1481‡"4Remove this unused "departmanObjesi" local variable.(„õ¡ü8œîêİ1
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(¾Ö×€8Ÿîêİ1
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(×ŠÙøÿÿÿÿ8Ÿîêİ1
+V	java:S106³"9Replace this use of System.out or System.err by a logger.(ÚŒ—ü8Ÿîêİ1
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(œ´Ğ£ùÿÿÿÿ8 îêİ1
+[	java:S106Á"9Replace this use of System.out or System.err by a logger.(ğ×âØşÿÿÿÿ8 îêİ1
+V	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ÇÁß®8 îêİ1
+[	java:S106Ì"9Replace this use of System.out or System.err by a logger.(£Ùş şÿÿÿÿ8 îêİ1
+V	java:S106Ï"9Replace this use of System.out or System.err by a logger.(è š¨8¢îêİ1
+[	java:S106ì"9Replace this use of System.out or System.err by a logger.(âß ×øÿÿÿÿ8£îêİ1
+[	java:S106î"9Replace this use of System.out or System.err by a logger.(˜——åüÿÿÿÿ8¤îêİ1
+U	java:S106ô"9Replace this use of System.out or System.err by a logger.(ÿÃ….8¤îêİ1
+U	java:S106û"9Replace this use of System.out or System.err by a logger.(›¬˜)8¤îêİ1
+_
+java:S1854ƒ"<Remove this useless assignment to local variable "personel".(ªı¸Æüÿÿÿÿ8¥îêİ1
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(Ü«Æëÿÿÿÿÿ8¥îêİ1
+P
+java:S1481ƒ"-Remove this unused "personel" local variable.(ªı¸Æüÿÿÿÿ8¥îêİ1
